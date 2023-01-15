@@ -15,4 +15,5 @@
 - 幅優先探索（<code>bfs.cpp</code>）
 - Binary Indexed Tree（<code>bit.cpp</code>）
 - N進数展開（<code>n_adic.cpp</code>）
-- 行列累乗（<code>matrix_pow</code>）
+- 行列累乗（<code>matrix_pow.cpp</code>）
+- セグメント木（<code>segtree.cpp</code>）
